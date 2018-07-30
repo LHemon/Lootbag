@@ -1,0 +1,11 @@
+﻿name: Lootbag
+main: com.lemon.lootbag.Main
+version: 1.0
+description: 自定義禮包插件
+author: 檸檬 LHemon412
+commands:
+    lootbag:
+        description: Main command for Lootbag plugin
+        permission: lootbag.admin
+        permission-message: §6禮包系統 >> §c你沒有權限使用這個指令
+        usage: /lootbag <sub-commands>
